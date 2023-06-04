@@ -1,11 +1,9 @@
-tools used and technology used is
-gitbash
-vs code
-html
-css
-javascript
-
-
+# tools used and technology used is
+1. gitbash
+2. vs code
+3. html
+4. css
+5. javascript
 
 # single-page-web-appliction
 single page web application using html,css and javascript
