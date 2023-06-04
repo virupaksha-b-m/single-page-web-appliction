@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>BMI calculator</title>
+    <link rel="stylesheet" href="/styles.css"></link>
+  </head>
+  <body>
+
+    <style>
+          h1{
+        color: brown;
+      }
+
+      div{
+        position: absolute;
+        top: 100px;
+        left: 30%;
+      }
+
+      nav{
+        position: absolute;
+        height: 100%;
+        background-color: bisque;
+        width: 150px;
+        
+      }
+
+      a{
+        text-decoration: none;
+      }
+      li{
+        color: bisque;
+      }
+
+    </style>
+
+
+    <nav>
+      <ul>
+        <li>
+         <a href="/" data-link> calculator </a>
+        </li>
+        <br><br>
+        <li>
+          <a href="/bmicalculator" data-link> bmiCalculator </a>
+        </li>
+        
+      </ul> 
+
+    </nav>
+    <div>
+      <h1>BMI calculator</h1>
+
+      <form  action="/bmicalculator" method="post">
+  
+        <input type="text" name="num1" placeholder="first number">
+        <input type="text" name="num2" placeholder="first number">
+  
+        <button type="submit" name="submit">calculate</button>
+      </form>
+  
+    </div>
+    
+  </body>
+</html>
