@@ -1,9 +1,3 @@
-# tools used and technology used is
-1. gitbash
-2. vs code
-3. html
-4. css
-5. javascript
 
 # single-page-web-appliction
 single page web application using html,css and javascript
@@ -19,3 +13,9 @@ for the first
 
 then run the js file using "nodemon claculator.js" in terminal or in gitbash
 
+# tools used and technology used is
+1. gitbash
+2. vs code
+3. html
+4. css
+5. javascript
